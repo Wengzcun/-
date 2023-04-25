@@ -10,7 +10,7 @@
 四、操作系统
 
 五、技术架构
-<br> 周老师良心佳作 http://icyfenix.cn/introduction/about-the-fenix-project.html
+<br> 周老师良心佳作《凤凰架构》 http://icyfenix.cn/introduction/about-the-fenix-project.html
 
 六、数据结构与算法
 
